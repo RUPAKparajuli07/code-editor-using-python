@@ -1,3 +1,6 @@
+from tkinter import *
+from tkinter import filedialog
+import subprocess
 
 root = Tk()
 root.title("Python editor")
